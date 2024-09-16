@@ -1,0 +1,15 @@
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\bin\Debug\net8.0\19-DosyaOkuma.exe
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\bin\Debug\net8.0\19-DosyaOkuma.deps.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\bin\Debug\net8.0\19-DosyaOkuma.runtimeconfig.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\bin\Debug\net8.0\19-DosyaOkuma.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\bin\Debug\net8.0\19-DosyaOkuma.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\obj\Debug\net8.0\19-DosyaOkuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\obj\Debug\net8.0\19-DosyaOkuma.AssemblyInfoInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\obj\Debug\net8.0\19-DosyaOkuma.AssemblyInfo.cs
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\obj\Debug\net8.0\19-DosyaOkuma.csproj.CoreCompileInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\obj\Debug\net8.0\19-DosyaOkuma.sourcelink.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\obj\Debug\net8.0\19-DosyaOkuma.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\obj\Debug\net8.0\refint\19-DosyaOkuma.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\obj\Debug\net8.0\19-DosyaOkuma.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\obj\Debug\net8.0\19-DosyaOkuma.genruntimeconfig.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\19-DosyaOkuma\obj\Debug\net8.0\ref\19-DosyaOkuma.dll

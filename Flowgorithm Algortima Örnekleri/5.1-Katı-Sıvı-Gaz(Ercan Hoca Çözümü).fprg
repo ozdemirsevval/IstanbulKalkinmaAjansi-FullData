@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sevva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 02:33:43 &#214;S"/>
+        <attribute name="created" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MDI6MzA6MzUgw5ZTOzI5NTY="/>
+        <attribute name="edited" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MDI6MzM6NDMgw5ZTOzE7MzA2Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="S&#305;cakl&#305;k Sorusu Ercan Hoca &#199;&#246;z&#252;m&#252;"/>
+            <declare name="sicaklik" type="Integer" array="False" size=""/>
+            <output expression="&quot;Suyun S&#305;cakl&#305;k De&#287;erini Giriniz.&quot;" newline="True"/>
+            <input variable="sicaklik"/>
+            <if expression="sicaklik&gt;100">
+                <then>
+                    <output expression="&quot;Gaz Halindedir.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="sicaklik&gt;0">
+                        <then>
+                            <output expression="&quot;S&#305;v&#305; Halindedir.&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Gaz Halindedir.&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

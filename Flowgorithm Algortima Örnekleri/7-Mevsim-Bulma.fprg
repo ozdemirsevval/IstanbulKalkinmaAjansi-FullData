@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sevva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 09:28:34 &#214;S"/>
+        <attribute name="created" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MDI6MzQ6NTIgw5ZTOzI5NTk="/>
+        <attribute name="edited" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MDk6Mjg6MzQgw5ZTOzU7MzA4MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kullan&#305;c&#305;dan ka&#231;&#305;nc&#305; ayda oldu&#287;u bilgisini alarak hangi mevsimde oldu&#287;unu yazd&#305;ran algoritma"/>
+            <declare name="ay" type="Integer" array="False" size=""/>
+            <output expression="&quot;Bulundu&#287;unuz ay&#305;n n&#252;merik de&#287;erini giriniz.&quot;" newline="True"/>
+            <input variable="ay"/>
+            <if expression="ay&gt;0 &amp;&amp; ay&lt;13">
+                <then>
+                    <comment text="ay = 12 || ay&lt;=2 &amp;&amp; ay&gt;0 &#351;eklinde de yaz&#305;labilir"/>
+                    <if expression="ay=1 || ay=2 || ay=12">
+                        <then>
+                            <output expression="&quot;K&#305;&#351;&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <if expression="ay&gt;=3 &amp;&amp; ay&lt;=5">
+                                <then>
+                                    <output expression="&quot;&#304;lkbahar&quot;" newline="True"/>
+                                </then>
+                                <else>
+                                    <if expression="ay&gt;=6 &amp;&amp; ay&lt;9">
+                                        <then>
+                                            <output expression="&quot;Yaz&quot;" newline="True"/>
+                                        </then>
+                                        <else>
+                                            <output expression="&quot;Sonbahar&quot;" newline="True"/>
+                                        </else>
+                                    </if>
+                                </else>
+                            </if>
+                        </else>
+                    </if>
+                </then>
+                <else>
+                    <output expression="&quot;Ge&#231;erli bir de&#287;er giriniz.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,15 @@
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\bin\Debug\net8.0\DegiskenTanimlama.exe
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\bin\Debug\net8.0\DegiskenTanimlama.deps.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\bin\Debug\net8.0\DegiskenTanimlama.runtimeconfig.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\bin\Debug\net8.0\DegiskenTanimlama.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\bin\Debug\net8.0\DegiskenTanimlama.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\obj\Debug\net8.0\DegiskenTanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\obj\Debug\net8.0\DegiskenTanimlama.AssemblyInfoInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\obj\Debug\net8.0\DegiskenTanimlama.AssemblyInfo.cs
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\obj\Debug\net8.0\DegiskenTanimlama.csproj.CoreCompileInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\obj\Debug\net8.0\DegiskenTanimlama.sourcelink.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\obj\Debug\net8.0\DegiskenTanimlama.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\obj\Debug\net8.0\refint\DegiskenTanimlama.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\obj\Debug\net8.0\DegiskenTanimlama.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\obj\Debug\net8.0\DegiskenTanimlama.genruntimeconfig.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\DegiskenTanimlama\obj\Debug\net8.0\ref\DegiskenTanimlama.dll

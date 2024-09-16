@@ -1,0 +1,15 @@
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\obj\Debug\net8.0\20-CustomerDosyasıOkuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\obj\Debug\net8.0\20-CustomerDosyasıOkuma.AssemblyInfoInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\obj\Debug\net8.0\20-CustomerDosyasıOkuma.AssemblyInfo.cs
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\obj\Debug\net8.0\20-CustomerDosyasıOkuma.csproj.CoreCompileInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\obj\Debug\net8.0\20-CustomerDosyasıOkuma.sourcelink.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\bin\Debug\net8.0\20-CustomerDosyasıOkuma.exe
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\bin\Debug\net8.0\20-CustomerDosyasıOkuma.deps.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\bin\Debug\net8.0\20-CustomerDosyasıOkuma.runtimeconfig.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\bin\Debug\net8.0\20-CustomerDosyasıOkuma.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\bin\Debug\net8.0\20-CustomerDosyasıOkuma.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\obj\Debug\net8.0\20-CustomerDosyasıOkuma.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\obj\Debug\net8.0\refint\20-CustomerDosyasıOkuma.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\obj\Debug\net8.0\20-CustomerDosyasıOkuma.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\obj\Debug\net8.0\20-CustomerDosyasıOkuma.genruntimeconfig.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\20-CustomerDosyasıOkuma\obj\Debug\net8.0\ref\20-CustomerDosyasıOkuma.dll

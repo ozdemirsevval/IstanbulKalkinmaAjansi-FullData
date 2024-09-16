@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sevva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 10:18:53 &#214;S"/>
+        <attribute name="created" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MTA6MTI6MjUgw5ZTOzI5NTQ="/>
+        <attribute name="edited" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MTA6MTg6NTMgw5ZTOzM7MzA3MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sayac" type="Integer" array="False" size=""/>
+            <comment text="While d&#246;ng&#252;s&#252;nde &#246;nce kontrol yapar do&#287;ruysa d&#246;ng&#252;ye girer ard&#305;ndan sayac&#305; art&#305;r&#305;r."/>
+            <assign variable="sayac" expression="0"/>
+            <while expression="sayac&lt;=10">
+                <output expression="&quot;Saya&#231; :&quot; &amp;sayac" newline="True"/>
+                <assign variable="sayac" expression="sayac+1"/>
+            </while>
+            <comment text="Do While d&#246;ng&#252;s&#252;nde kontrol&#252; en son yapar bu y&#252;zden d&#246;ng&#252;ye bir kez de olsa girer."/>
+            <assign variable="sayac" expression="10"/>
+            <do expression="sayac&lt;10">
+                <output expression="&quot;DoWhile D&#246;ng&#252;s&#252; Saya&#231; :&quot; &amp;sayac" newline="True"/>
+                <assign variable="sayac" expression="sayac+1"/>
+            </do>
+        </body>
+    </function>
+</flowgorithm>

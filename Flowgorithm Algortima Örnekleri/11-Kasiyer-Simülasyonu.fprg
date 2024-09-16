@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sevva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-15 04:33:28 &#214;S"/>
+        <attribute name="created" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MDk6MjI6NDEgw5bDljszMDky"/>
+        <attribute name="edited" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMTU7MDQ6MzM6Mjggw5ZTOzQ7MzA3Mw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kasiyerin okuttu&#287;u &#252;r&#252;n adedini bulunuz.&#13;&#10;Toplam fiyatlar&#305;n&#305; bulunuz."/>
+            <declare name="urunAdet, toplamFiyat, urunFiyat, toplamAdet" type="Real" array="False" size=""/>
+            <assign variable="toplamAdet" expression="0"/>
+            <assign variable="toplamFiyat" expression="0"/>
+            <do expression="urunAdet&lt;&gt;0">
+                <output expression="&quot;&#220;r&#252;n Fiyat&#305;n&#305; Giriniz.&quot;" newline="True"/>
+                <input variable="urunFiyat"/>
+                <output expression="&quot;&#220;r&#252;n Adedini Giriniz.&quot;" newline="True"/>
+                <input variable="urunAdet"/>
+                <assign variable="toplamAdet" expression="toplamAdet+urunAdet"/>
+                <assign variable="toplamFiyat" expression="toplamFiyat+(urunFiyat*urunAdet)"/>
+            </do>
+            <comment text="urunAdet &lt;&gt; 0 =&gt; adet 0'dan farkl&#305; oldu&#287;u s&#252;rece"/>
+            <output expression="&quot;Girilen Urun Adedi&quot; &amp;toplamAdet &amp;&quot;Tutar: &quot; &amp;toplamFiyat" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

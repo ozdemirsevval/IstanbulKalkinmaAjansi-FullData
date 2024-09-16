@@ -1,0 +1,15 @@
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\bin\Debug\net8.0\TipDonusum.exe
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\bin\Debug\net8.0\TipDonusum.deps.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\bin\Debug\net8.0\TipDonusum.runtimeconfig.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\bin\Debug\net8.0\TipDonusum.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\bin\Debug\net8.0\TipDonusum.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.AssemblyInfoInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.AssemblyInfo.cs
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.csproj.CoreCompileInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.sourcelink.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\obj\Debug\net8.0\refint\TipDonusum.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\obj\Debug\net8.0\TipDonusum.genruntimeconfig.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\TipDonusum\obj\Debug\net8.0\ref\TipDonusum.dll

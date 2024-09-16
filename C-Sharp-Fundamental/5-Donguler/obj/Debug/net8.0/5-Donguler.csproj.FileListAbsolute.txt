@@ -1,0 +1,15 @@
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\bin\Debug\net8.0\5-Donguler.exe
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\bin\Debug\net8.0\5-Donguler.deps.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\bin\Debug\net8.0\5-Donguler.runtimeconfig.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\bin\Debug\net8.0\5-Donguler.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\bin\Debug\net8.0\5-Donguler.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\obj\Debug\net8.0\5-Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\obj\Debug\net8.0\5-Donguler.AssemblyInfoInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\obj\Debug\net8.0\5-Donguler.AssemblyInfo.cs
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\obj\Debug\net8.0\5-Donguler.csproj.CoreCompileInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\obj\Debug\net8.0\5-Donguler.sourcelink.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\obj\Debug\net8.0\5-Donguler.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\obj\Debug\net8.0\refint\5-Donguler.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\obj\Debug\net8.0\5-Donguler.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\obj\Debug\net8.0\5-Donguler.genruntimeconfig.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\5-Donguler\obj\Debug\net8.0\ref\5-Donguler.dll

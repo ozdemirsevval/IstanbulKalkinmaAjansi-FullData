@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sevva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 02:22:36 &#214;S"/>
+        <attribute name="created" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDY7MTA6NDE6MTUgw5bDljszMDg1"/>
+        <attribute name="edited" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MDI6MjI6MzYgw5ZTOzM7MzA2OA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kenar uzunluklar&#305; kullan&#305;c&#305;dan al&#305;nan bir dikd&#246;rtgenin &#231;evresini ve alan&#305;n&#305; hesaplay&#305;n&#305;z."/>
+            <declare name="uzunkenar, k&#305;sakenar, cevre, alan" type="Integer" array="False" size=""/>
+            <output expression="&quot;uzunkenar giriniz.&quot;" newline="True"/>
+            <input variable="uzunkenar"/>
+            <output expression="&quot;k&#305;sakenar giriniz.&quot;" newline="True"/>
+            <input variable="k&#305;sakenar"/>
+            <assign variable="cevre" expression="(uzunkenar+k&#305;sakenar)*2"/>
+            <assign variable="alan" expression="uzunkenar*k&#305;sakenar"/>
+            <output expression="&quot;Dikd&#246;rtgenin &#199;evresi :&quot; &amp;cevre &amp;&quot; Dikd&#246;rtgenin Alan&#305; : &quot; &amp;alan" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

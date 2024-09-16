@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sevva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 11:46:42 &#214;&#214;"/>
+        <attribute name="created" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MTE6NDQ6NDIgw5bDljszMDkw"/>
+        <attribute name="edited" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MTE6NDY6NDIgw5bDljsxOzMyMDA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="1,1,2,3,5,8,13 .. &#351;eklinde kendisinden &#246;nce gelen 2 say&#305;n&#305;n toplam&#305;ndan olu&#351;an seriye fibonacci serisi denir.&#13;&#10;&#304;lk 20 Eleman&#305; bir diziye aktar&#305;n ve listeleyin."/>
+        </body>
+    </function>
+</flowgorithm>

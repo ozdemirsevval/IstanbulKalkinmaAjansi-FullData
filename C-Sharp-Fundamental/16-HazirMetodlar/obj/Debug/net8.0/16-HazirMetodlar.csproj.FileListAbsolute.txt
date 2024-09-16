@@ -1,0 +1,15 @@
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\bin\Debug\net8.0\16-HazirMetodlar.exe
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\bin\Debug\net8.0\16-HazirMetodlar.deps.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\bin\Debug\net8.0\16-HazirMetodlar.runtimeconfig.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\bin\Debug\net8.0\16-HazirMetodlar.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\bin\Debug\net8.0\16-HazirMetodlar.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\obj\Debug\net8.0\16-HazirMetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\obj\Debug\net8.0\16-HazirMetodlar.AssemblyInfoInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\obj\Debug\net8.0\16-HazirMetodlar.AssemblyInfo.cs
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\obj\Debug\net8.0\16-HazirMetodlar.csproj.CoreCompileInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\obj\Debug\net8.0\16-HazirMetodlar.sourcelink.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\obj\Debug\net8.0\16-HazirMetodlar.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\obj\Debug\net8.0\refint\16-HazirMetodlar.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\obj\Debug\net8.0\16-HazirMetodlar.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\obj\Debug\net8.0\16-HazirMetodlar.genruntimeconfig.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\16-HazirMetodlar\obj\Debug\net8.0\ref\16-HazirMetodlar.dll

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sevva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 11:16:47 &#214;S"/>
+        <attribute name="created" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MTA6MTk6MDQgw5ZTOzI5NTg="/>
+        <attribute name="edited" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MTE6MTY6NDcgw5ZTOzM7MzA3Mw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kullan&#305;c&#305;dan al&#305;nan username ve password do&#287;ru girildiyse yanl&#305;&#351; girilen bilgiyi de ekrana yazd&#305;r&#305;n&#305;z.Toplam yanl&#305;&#351; girme hakk&#305; 5'tir.&#13;&#10;(username=admin &amp;&amp; password=admin)"/>
+            <declare name="userName, password" type="String" array="False" size=""/>
+            <declare name="hataSayisi" type="Integer" array="False" size=""/>
+            <assign variable="hataSayisi" expression="0"/>
+            <do expression="hataSayisi&lt;5">
+                <output expression="&quot;Username Giriniz.&quot;" newline="True"/>
+                <input variable="userName"/>
+                <output expression="&quot;Password Giriniz.&quot;" newline="True"/>
+                <input variable="password"/>
+                <if expression="username = &quot;admin&quot; &amp;&amp; password=&quot;admin&quot;">
+                    <then>
+                        <output expression="&quot;Giri&#351; i&#351;lemi ba&#351;ar&#305;l&#305;,ho&#351;geldiniz.&quot;" newline="True"/>
+                        <assign variable="hataSayisi" expression="10"/>
+                    </then>
+                    <else>
+                        <if expression="username=&quot;admin&quot; &amp;&amp;password!= &quot;admin&quot;">
+                            <then>
+                                <output expression="&quot;Username do&#287;ru password hatal&#305;d&#305;r.&quot;" newline="True"/>
+                            </then>
+                            <else>
+                                <if expression="userName!=&quot;admin&quot; &amp;&amp; password =&quot;admin&quot;">
+                                    <then>
+                                        <output expression="&quot;password do&#287;ru username hatal&#305;d&#305;r.&quot;" newline="True"/>
+                                    </then>
+                                    <else>
+                                        <output expression="&quot;username ve password hatal&#305;&quot;" newline="True"/>
+                                    </else>
+                                </if>
+                            </else>
+                        </if>
+                        <assign variable="hataSayisi" expression="hataSayisi+1"/>
+                        <output expression="&quot;Kalan Deneme Hakk&#305;n&#305;z :&quot; &amp;(5-hataSayisi)" newline="True"/>
+                    </else>
+                </if>
+            </do>
+            <if expression="hataSayisi=5">
+                <then>
+                    <output expression="&quot;Giri&#351; hakk&#305;n&#305;z ask&#305;ya al&#305;nd&#305; 10 dakika sonra tekrar deneyiniz.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="hataSayisi=10">
+                        <then/>
+                        <else>
+                            <output expression="&quot;Giri&#351; i&#351;lemi ba&#351;ar&#305;l&#305;,ho&#351;geldiniz.&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

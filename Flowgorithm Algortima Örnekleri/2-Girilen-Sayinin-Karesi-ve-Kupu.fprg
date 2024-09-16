@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sevva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 02:20:10 &#214;S"/>
+        <attribute name="created" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDY7MTA6Mjg6MDIgw5bDljszMDg2"/>
+        <attribute name="edited" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MDI6MjA6MTAgw5ZTOzI7MzA1Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Girilen say&#305;n&#305;n karesini ve k&#252;p&#252;n&#252; bulunuz."/>
+            <declare name="sayi, karesi, kupu" type="Integer" array="False" size=""/>
+            <output expression="&quot;Say&#305; giriniz.&quot;" newline="True"/>
+            <input variable="sayi"/>
+            <assign variable="karesi" expression="sayi*sayi"/>
+            <assign variable="kupu" expression="sayi*sayi*sayi"/>
+            <output expression="&quot;Karesi :&quot; &amp;karesi" newline="True"/>
+            <output expression="&quot;K&#252;p&#252; :&quot; &amp;kupu" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

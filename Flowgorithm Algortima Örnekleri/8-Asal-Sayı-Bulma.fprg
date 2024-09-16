@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sevva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 09:44:47 &#214;S"/>
+        <attribute name="created" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MDk6MzQ6MDYgw5ZTOzI5NjU="/>
+        <attribute name="edited" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MDk6NDQ6NDcgw5ZTOzE7MzA3OQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kullan&#305;c&#305;dan al&#305;nan say&#305;n&#305;n asal olup olmad&#305;&#287;&#305;n&#305; kontrol eden algoritma"/>
+            <declare name="sayac, bolum, sayi" type="Integer" array="False" size=""/>
+            <assign variable="sayac" expression="0"/>
+            <assign variable="bolum" expression="0"/>
+            <output expression="&quot;Bir say&#305; giriniz&quot;" newline="True"/>
+            <input variable="sayi"/>
+            <while expression="sayac&lt;=sayi">
+                <output expression="&quot;Say&#305; : &amp;sayac&quot;" newline="True"/>
+                <if expression="sayi%sayac=0">
+                    <then>
+                        <assign variable="bolum" expression="bolum+1"/>
+                    </then>
+                    <else/>
+                </if>
+                <assign variable="sayac" expression="sayac+1"/>
+            </while>
+            <if expression="bolum=2">
+                <then>
+                    <output expression="&quot;Asal Say&#305;&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Asal Say&#305; De&#287;ildir.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

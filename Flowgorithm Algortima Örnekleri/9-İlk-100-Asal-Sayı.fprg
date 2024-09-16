@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sevva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-15 04:23:27 &#214;S"/>
+        <attribute name="created" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MDk6NDQ6NTIgw5ZTOzI5Njc="/>
+        <attribute name="edited" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMTU7MDQ6MjM6Mjcgw5ZTOzU7MzA3Mg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="1-100 aras&#305;ndaki asal say&#305;lar&#305; ekrana yazd&#305;r&#305;n&#305;z."/>
+            <declare name="sayac, bolum, sayi" type="Integer" array="False" size=""/>
+            <assign variable="sayi" expression="2"/>
+            <while expression="sayi&lt;100">
+                <assign variable="bolum" expression="0"/>
+                <assign variable="sayac" expression="1"/>
+                <while expression="sayac&lt;=sayi">
+                    <if expression="sayi%sayac=0">
+                        <then>
+                            <assign variable="bolum" expression="bolum+1"/>
+                        </then>
+                        <else/>
+                    </if>
+                    <assign variable="sayac" expression="sayac+1"/>
+                </while>
+                <if expression="bolum=2">
+                    <then>
+                        <output expression="sayi&amp;&quot; Asal Say&#305;d&#305;r.&quot;" newline="True"/>
+                    </then>
+                    <else/>
+                </if>
+                <assign variable="sayi" expression="sayi+1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sevva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 01:24:17 &#214;S"/>
+        <attribute name="created" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MTE6NDM6MTggw5bDljszMDky"/>
+        <attribute name="edited" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MDE6MjQ6MTcgw5ZTOzI7MzA2Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Rastgele 10 elemanl&#305; say&#305;lar dizisi olu&#351;turun.&#13;&#10;En b&#252;y&#252;k ve en k&#252;&#231;&#252;k eleman&#305;n&#305; bulunuz."/>
+            <declare name="sayilar" type="Integer" array="True" size="10"/>
+            <declare name="index, sayac, maxValue, minValue" type="Integer" array="False" size=""/>
+            <for variable="index" start="0" end="9" direction="inc" step="1">
+                <assign variable="sayilar[index]" expression="Random(200)+1"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>

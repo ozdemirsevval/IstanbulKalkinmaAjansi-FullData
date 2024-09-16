@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sevva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 02:30:16 &#214;S"/>
+        <attribute name="created" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDY7MTA6NDQ6NTYgw5bDljszMDkz"/>
+        <attribute name="edited" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MDI6MzA6MTYgw5ZTOzU7MzA2Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Kullan&#305;c&#305;dan al&#305;nan suyun s&#305;cakl&#305;&#287;&#305;na g&#246;re 0'dan k&#252;&#231;&#252;kse &quot;kat&#305;&quot;, 0 ile 100 aras&#305;nda ise &quot;s&#305;v&#305;&quot;,100'den b&#252;y&#252;kse &quot;gaz&quot; halindedir mesaj&#305; verecek algoritma yaz&#305;n&#305;z."/>
+            <declare name="s&#305;cakl&#305;k" type="Integer" array="False" size=""/>
+            <output expression="&quot;S&#305;cakl&#305;k De&#287;eri Giriniz.&quot;" newline="True"/>
+            <input variable="s&#305;cakl&#305;k"/>
+            <if expression="s&#305;cakl&#305;k&lt;=0">
+                <then>
+                    <output expression="&quot;Kat&#305;&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="s&#305;cakl&#305;k&gt;=100">
+                        <then>
+                            <output expression="&quot;Gaz&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;S&#305;v&#305;&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

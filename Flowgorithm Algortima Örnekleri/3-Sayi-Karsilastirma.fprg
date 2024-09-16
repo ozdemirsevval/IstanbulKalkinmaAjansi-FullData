@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sevva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 02:21:23 &#214;S"/>
+        <attribute name="created" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDY7MTA6MzQ6NDUgw5bDljszMDkw"/>
+        <attribute name="edited" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MDI6MjE6MjMgw5ZTOzI7MzA2Mg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="say&#305; kar&#351;&#305;la&#351;t&#305;rma&#13;&#10;"/>
+            <declare name="sayi1, sayi2" type="Integer" array="False" size=""/>
+            <assign variable="sayi1" expression="3"/>
+            <assign variable="sayi2" expression="5"/>
+            <if expression="sayi1 &gt; sayi2">
+                <then>
+                    <output expression="&quot;Girilen &quot; &amp;sayi1 &amp;&quot; girilen &quot; &amp;sayi2 &amp;&quot;den b&#252;y&#252;kt&#252;r.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Girilen &quot; &amp;sayi1 &amp;&quot; girilen &quot; &amp;sayi2 &amp;&quot;den k&#252;&#231;&#252;kt&#252;r.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,15 @@
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\bin\Debug\net8.0\15-Listeler.exe
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\bin\Debug\net8.0\15-Listeler.deps.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\bin\Debug\net8.0\15-Listeler.runtimeconfig.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\bin\Debug\net8.0\15-Listeler.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\bin\Debug\net8.0\15-Listeler.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\obj\Debug\net8.0\15-Listeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\obj\Debug\net8.0\15-Listeler.AssemblyInfoInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\obj\Debug\net8.0\15-Listeler.AssemblyInfo.cs
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\obj\Debug\net8.0\15-Listeler.csproj.CoreCompileInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\obj\Debug\net8.0\15-Listeler.sourcelink.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\obj\Debug\net8.0\15-Listeler.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\obj\Debug\net8.0\refint\15-Listeler.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\obj\Debug\net8.0\15-Listeler.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\obj\Debug\net8.0\15-Listeler.genruntimeconfig.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\15-Listeler\obj\Debug\net8.0\ref\15-Listeler.dll

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="sevva"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-07 02:26:39 &#214;S"/>
+        <attribute name="created" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDY7MTE6MTU6NTUgw5bDljszMDkx"/>
+        <attribute name="edited" value="c2V2dmE7REVTS1RPUC00MTkwNUxFOzIwMjQtMDgtMDc7MDI6MjY6Mzkgw5ZTOzM7MzA3NQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="&#304;ki vize bir final notu olacak &#351;ekilde yap&#305;lan s&#305;navda vizenin %30'u finalin %70'i al&#305;nacakt&#305;r.&#13;&#10;E&#287;er ortalama 50 ve &#252;zerinde ise &quot;Ge&#231;ti&quot; alt&#305;nda ise &quot;Kald&#305;&quot; yazd&#305;r&#305;lacak."/>
+            <declare name="vize1, vize2, final" type="Integer" array="False" size=""/>
+            <declare name="vizeortalamas&#305;, finalortalamas&#305;" type="Real" array="False" size=""/>
+            <output expression="&quot;Birinci Vize Notunuzu Giriniz.&quot;" newline="True"/>
+            <input variable="vize1"/>
+            <output expression="&quot;&#304;kinci Vize Notunuzu Giriniz.&quot;" newline="True"/>
+            <input variable="vize2"/>
+            <output expression="&quot;Final Notunuzu Giriniz.&quot;" newline="True"/>
+            <input variable="final"/>
+            <comment text="Vize ortalamas&#305; hesaplarken (vizenotu*30/100)/2 diyene kadar 15/100 onu da sadele&#351;tirerek 0.15 diyebiliriz."/>
+            <assign variable="vizeortalamas&#305;" expression="(vize1+vize2)*0.15"/>
+            <assign variable="finalortalamas&#305;" expression="vizeortalamas&#305;+final*0.7"/>
+            <if expression="finalortalamas&#305; &gt; 50">
+                <then>
+                    <output expression="&quot;Ge&#231;tiniz.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Kald&#305;n&#305;z&quot;" newline="True"/>
+                </else>
+            </if>
+            <output expression="&quot;Not Ortalamas&#305; : &quot; &amp;finalortalamas&#305;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
