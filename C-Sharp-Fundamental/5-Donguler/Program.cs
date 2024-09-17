@@ -96,7 +96,7 @@ class Program
             if (i == 2020)
                 break; //Döngüyü kırmak için break kullanılır.
             Console.WriteLine(i);
-        } */  
+        } */
         /*
         for (int i = 2015; i < 2026; i++)
         {
@@ -135,7 +135,7 @@ class Program
         //Eğer Sayı tutulan sayıdan küçükse daha büyük sayı giriniz mesajı verilsin.
         //Oyunu bildiyse eğer kaçıncı denemede bildiğini yazdırın.
         //En sonunda oyuna devam etmek istiyor musunuz sorusunu alın ve ona göre tekrarlatın.
-
+        /*
         Random random = new Random();
         string inputCevap = "evet";
 
@@ -170,20 +170,84 @@ class Program
             
             Console.WriteLine("Devam etmek istiyor musunuz? [evet/hayır]");
             inputCevap = Console.ReadLine().ToLower();
-        }
- 
+        } */
+
 
         #endregion
 
-        #region Fbonacci sayıları 1,1,2,3,5,8,13,21,34... kendinden önceki iki sayının toplamı şeklindedir.
-        // il20 fibonacci sayısını ekrana bastırın.
+        #region Fibonacci sayıları 1,1,2,3,5,8,13,21,34... kendinden önceki iki sayının toplamı şeklindedir.
+        // ilk 20 fibonacci sayısını ekrana bastırın.
+        /*
+        Console.WriteLine("İlk 20 Fibonacci sayısı");
+        int sayi1 = 1,sayi2=0,toplam;
+        for (int i = 0; i < 21; i++)
+        {
+            toplam = sayi1 + sayi2;
+            Console.WriteLine(toplam);
+            sayi1 = sayi2;
+            sayi2 = toplam;
+        } */
         #endregion
+
         #region İlk 20 asal sayıyı yazdırın.
+        
+        Console.WriteLine("ilk 20 asal sayı");
+        int sayac = 1; // kaç asal sayı bulduğunu sayıyor.
+        int altSayac = 0; // altSayac bir sayının kaç böleni olduğunu tutuyor.
 
-        #endregion
+        for (int i = 2; i < 73; i++) //i başlanılan sayı değeridir. en küçük asal 2 olduğu için 2'den başlar.
+        { // i<73 te sınırlama sebebi 21. asal sayı 73'tür.
+            for (int  j = 2;  j <= Math.Sqrt(i);  j++)
+            {
+                 if (i % j == 0)
+                 {
+                    altSayac++;
+                    //break; // sayı bölündüyse asal değil, döngüden çık.
+                 }
+            }
+            if (altSayac == 0) // sadece 1'e ve kendisine bölünüyorsa asal
+            {
+                Console.WriteLine(i);
+                sayac++;
+            }
+            altSayac = 0;
+            if (sayac == 20) // bu şekilde yazınca 19 asal sayı getiriyor.
+            {
+                break;
+            }
+            
 
-        #endregion
+        }
+        Console.WriteLine("ilk 20 asal sayı");
+        int sayi = 2; // Asal sayıları 2'den başlayarak arayacağız.
+        int sayac1 = 0; // Kaç adet asal sayı bulduğumuzu tutacak sayaç.
+
+        while (sayac1 < 20) // İlk 20 asal sayıyı bulana kadar devam edecek döngü.
+        {
+            bool asalMi = true; // Asal olduğunu varsayarak başlıyoruz.
+
+            // Asal olup olmadığını kontrol etmek için döngü.
+            for (int i = 2; i <= Math.Sqrt(sayi); i++) // bir sayının çarpanları ya da bölenleri kareköküne kadardır.
+            { // bu yüzden işlem kısaltmak adına sayinin kareköküne kadar döngü devam eder.
+                if (sayi % i == 0) // Eğer herhangi bir sayıya bölünüyorsa asal değildir.
+                {
+                    asalMi = false;
+                    break; // Asal olmadığını öğrendiğimizde döngüden çıkıyoruz.
+                }
+            } // eğer sayı 36 olsaydı bölenleri : 1,2,3,4,6 olacaktı 
+
+            if (asalMi) // Eğer sayı asal ise
+            {
+                Console.WriteLine(sayi); // Asal sayıyı ekrana yazdır.
+                sayac1++; // Asal sayıyı bulduğumuz için sayaç artırılıyor.
+            }
+
+            sayi++; // Bir sonraki sayıyı kontrol etmek için artırıyoruz.
+
+            #endregion
+
+            #endregion
+        }
+
     }
-
-
 }
