@@ -1,0 +1,15 @@
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\bin\Debug\net8.0\6-Diziler.exe
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\bin\Debug\net8.0\6-Diziler.deps.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\bin\Debug\net8.0\6-Diziler.runtimeconfig.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\bin\Debug\net8.0\6-Diziler.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\bin\Debug\net8.0\6-Diziler.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\obj\Debug\net8.0\6-Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\obj\Debug\net8.0\6-Diziler.AssemblyInfoInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\obj\Debug\net8.0\6-Diziler.AssemblyInfo.cs
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\obj\Debug\net8.0\6-Diziler.csproj.CoreCompileInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\obj\Debug\net8.0\6-Diziler.sourcelink.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\obj\Debug\net8.0\6-Diziler.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\obj\Debug\net8.0\refint\6-Diziler.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\obj\Debug\net8.0\6-Diziler.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\obj\Debug\net8.0\6-Diziler.genruntimeconfig.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\6-Diziler\obj\Debug\net8.0\ref\6-Diziler.dll
