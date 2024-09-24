@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4-SwitchCase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1891d1a7a9c0eaeae21351e6cdda9574a35f6a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4164b00a7b8c55b136c5403c871ff7d348ca65b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("4-SwitchCase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4-SwitchCase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -15,8 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-Donguler", "5-Donguler\5-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-Diziler", "6-Diziler\6-Diziler.csproj", "{E3A4DFEE-D63D-46AB-B1AA-EF1146EFBBFF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-TryCatch", "8-TryCatch\8-TryCatch.csproj", "{E720049E-E858-4646-80A7-DE61C23A287C}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9-MainArguman", "9-MainArguman\9-MainArguman.csproj", "{2C52CA2A-3D33-47D5-93A7-FB0A3CA34012}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-MetodlarLab", "11-MetodlarLab\11-MetodlarLab.csproj", "{71F217CE-F18C-4D17-99F4-DE69792E5251}"
@@ -29,7 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19-DosyaOkuma", "19-DosyaOk
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20-CustomerDosyasıOkuma", "20-CustomerDosyasıOkuma\20-CustomerDosyasıOkuma.csproj", "{2CF43F2B-1B17-477B-9840-02830D58BF5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev-PeopleDosyasınıOkuma", "Odev-PeopleDosyasınıOkuma\Odev-PeopleDosyasınıOkuma.csproj", "{278D4730-235F-4064-AB12-DEC117CB739D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev-PeopleDosyasınıOkuma", "Odev-PeopleDosyasınıOkuma\Odev-PeopleDosyasınıOkuma.csproj", "{278D4730-235F-4064-AB12-DEC117CB739D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,10 +59,6 @@ Global
 		{E3A4DFEE-D63D-46AB-B1AA-EF1146EFBBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3A4DFEE-D63D-46AB-B1AA-EF1146EFBBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3A4DFEE-D63D-46AB-B1AA-EF1146EFBBFF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E720049E-E858-4646-80A7-DE61C23A287C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E720049E-E858-4646-80A7-DE61C23A287C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E720049E-E858-4646-80A7-DE61C23A287C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E720049E-E858-4646-80A7-DE61C23A287C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2C52CA2A-3D33-47D5-93A7-FB0A3CA34012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2C52CA2A-3D33-47D5-93A7-FB0A3CA34012}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C52CA2A-3D33-47D5-93A7-FB0A3CA34012}.Release|Any CPU.ActiveCfg = Release|Any CPU

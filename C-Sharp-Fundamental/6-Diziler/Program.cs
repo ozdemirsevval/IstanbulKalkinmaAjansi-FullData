@@ -1,4 +1,6 @@
-﻿namespace _6_Diziler
+﻿using System.ComponentModel.Design;
+
+namespace _6_Diziler
 {
     internal class Program
     {
@@ -31,7 +33,7 @@
             // Tek tek değer atamak için dizi indexi kullanılır.
 
             sayilar2[3] = 20; //index değeri 0'dan başlar ilk sayının index değeri 0 olduğu için 
-                              // aslında index değeri 3 olan sayı dizi içinde dördüncü sayıya tekabül etmektedir.
+                              //aslında index değeri 3 olan sayı dizi içinde dördüncü sayıya tekabül etmektedir.
 
             /* 
                int[] notlar = {5,15,20,25,30,35,40,45,50}
@@ -47,7 +49,7 @@
             // Foreach döngü değil iterasyondur.
             // Aradaki fark 1-10 arasindaki sayilari foreach'le ekrana yazdiramayiz.
             // foreach icin mutlaka bir veri seti gereklidir.Bu ister dizi ister liste olabilir.
-
+            #endregion
             #region Var Keyword'u
 
             /*
@@ -60,7 +62,7 @@
             var temp = DateTime.Now;
             Console.WriteLine(temp); //13.08.2024 10:47:28
 
-            #endregion
+            
 
             // Foreach ile kullanımı
             Console.WriteLine("Foreach ile dizi bastırma");
@@ -213,15 +215,69 @@
             #endregion
 
 
-            #region Dizideki en küçük ve en büyük elemanı bulma
-                          int[] numbers   = new int[20];
+            #region Dizideki en küçük ve en büyük elemanı bulma (çift for ile çözüm)
+            int[] numbers = new int[20];
             for (int i = 0; i < numbers.Length; i++)
             {
-                numbers[i] = random1.Next();
+                numbers[i] = random1.Next(20,100);
+                Console.WriteLine($"Sayılar : {numbers[i]}");
             }
+            
+            int bigNum = numbers[0], littleNum = numbers[0];
+            for(int i=1; i < numbers.Length; i++)
+            {
+                if (numbers[i] > bigNum)
+                {
+                    bigNum = numbers[i];
+                }
+                else if (numbers[i] < littleNum) 
+                {
+                    littleNum = numbers[i];
+                }
+            }
+            Console.WriteLine($"En büyük sayı: {bigNum} \nEn küçük sayı: {littleNum}");
+            #endregion
+
+            #region Dizideki en küçük ve en büyük elemanı bulma (tek for ile)
+
+            int[] numbers2 = new int[20];
+            Random random2 = new Random();
+
+            int numMax = numbers2[0];
+            int numMin = numbers2[0];
+
+            for (int i = 1; i < numbers2.Length; i++) 
+            {
+                numbers2[i] = random2.Next(1, 100);
+                if (numbers2[i] > numMax)
+                {
+                    numMax = numbers2[i];
+                }
+                else if (numbers2[i] < numMin)
+                {
+                    numMin = numbers2[i];
+                }
+            }
+            Console.WriteLine($"En büyük sayı: {numMax} \nEn küçük sayı: {numMin}");
 
             #endregion
 
+            #region Dizilerdeki en büyük ve en küçük sayıyı bulma (Ercan Hoca Çözümü)
+
+            int[] numbers3 = new int[20];
+            Random random3 = new Random();
+
+            for (int i = 1;i < numbers3.Length; i++)
+            {
+                numbers[3] = random3.Next();
+            }
+            Console.WriteLine($"En büyük sayı:{numbers3.Max()}");
+            Console.WriteLine($"En küçük sayı:{numbers3.Min()}");
+            #endregion
+
+            #region (Ödev) Oluşturduğumuz int tipindeki dizileri sıralayın.
+
+            #endregion
         }
     }
 }
