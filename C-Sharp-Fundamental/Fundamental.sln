@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20-CustomerDosyasıOkuma", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev-PeopleDosyasınıOkuma", "Odev-PeopleDosyasınıOkuma\Odev-PeopleDosyasınıOkuma.csproj", "{278D4730-235F-4064-AB12-DEC117CB739D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-TryCatch", "7-TryCatch\7-TryCatch.csproj", "{9923353E-A1C8-4CFB-B83A-13105EBA672C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{278D4730-235F-4064-AB12-DEC117CB739D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{278D4730-235F-4064-AB12-DEC117CB739D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{278D4730-235F-4064-AB12-DEC117CB739D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9923353E-A1C8-4CFB-B83A-13105EBA672C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9923353E-A1C8-4CFB-B83A-13105EBA672C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9923353E-A1C8-4CFB-B83A-13105EBA672C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9923353E-A1C8-4CFB-B83A-13105EBA672C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

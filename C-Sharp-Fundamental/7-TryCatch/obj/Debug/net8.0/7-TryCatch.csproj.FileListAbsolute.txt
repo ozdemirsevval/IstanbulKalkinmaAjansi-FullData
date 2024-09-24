@@ -1,0 +1,15 @@
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\bin\Debug\net8.0\7-TryCatch.exe
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\bin\Debug\net8.0\7-TryCatch.deps.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\bin\Debug\net8.0\7-TryCatch.runtimeconfig.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\bin\Debug\net8.0\7-TryCatch.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\bin\Debug\net8.0\7-TryCatch.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\obj\Debug\net8.0\7-TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\obj\Debug\net8.0\7-TryCatch.AssemblyInfoInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\obj\Debug\net8.0\7-TryCatch.AssemblyInfo.cs
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\obj\Debug\net8.0\7-TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\obj\Debug\net8.0\7-TryCatch.sourcelink.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\obj\Debug\net8.0\7-TryCatch.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\obj\Debug\net8.0\refint\7-TryCatch.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\obj\Debug\net8.0\7-TryCatch.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\obj\Debug\net8.0\7-TryCatch.genruntimeconfig.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\7-TryCatch\obj\Debug\net8.0\ref\7-TryCatch.dll
