@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev-PeopleDosyasınıOkuma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-TryCatch", "7-TryCatch\7-TryCatch.csproj", "{9923353E-A1C8-4CFB-B83A-13105EBA672C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-MainArguman", "8-MainArguman\8-MainArguman.csproj", "{2FC5F9FD-1038-4B2F-ACA6-D3019121328C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-MainArguman", "8-MainArguman\8-MainArguman.csproj", "{2FC5F9FD-1038-4B2F-ACA6-D3019121328C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Metodlar", "9-Metodlar\9-Metodlar.csproj", "{930A08F0-81AD-49F5-9D2B-589F0E0FF162}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{2FC5F9FD-1038-4B2F-ACA6-D3019121328C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FC5F9FD-1038-4B2F-ACA6-D3019121328C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FC5F9FD-1038-4B2F-ACA6-D3019121328C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930A08F0-81AD-49F5-9D2B-589F0E0FF162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930A08F0-81AD-49F5-9D2B-589F0E0FF162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930A08F0-81AD-49F5-9D2B-589F0E0FF162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930A08F0-81AD-49F5-9D2B-589F0E0FF162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

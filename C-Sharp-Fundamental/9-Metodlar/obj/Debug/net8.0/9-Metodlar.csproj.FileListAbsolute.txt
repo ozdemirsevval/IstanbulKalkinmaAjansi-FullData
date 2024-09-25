@@ -1,0 +1,15 @@
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\bin\Debug\net8.0\9-Metodlar.exe
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\bin\Debug\net8.0\9-Metodlar.deps.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\bin\Debug\net8.0\9-Metodlar.runtimeconfig.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\bin\Debug\net8.0\9-Metodlar.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\bin\Debug\net8.0\9-Metodlar.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\obj\Debug\net8.0\9-Metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\obj\Debug\net8.0\9-Metodlar.AssemblyInfoInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\obj\Debug\net8.0\9-Metodlar.AssemblyInfo.cs
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\obj\Debug\net8.0\9-Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\obj\Debug\net8.0\9-Metodlar.sourcelink.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\obj\Debug\net8.0\9-Metodlar.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\obj\Debug\net8.0\refint\9-Metodlar.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\obj\Debug\net8.0\9-Metodlar.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\obj\Debug\net8.0\9-Metodlar.genruntimeconfig.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\C-Sharp-Fundamental\9-Metodlar\obj\Debug\net8.0\ref\9-Metodlar.dll
