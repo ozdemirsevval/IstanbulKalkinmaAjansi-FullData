@@ -38,7 +38,26 @@
 
             if (sonuc == true && sonuc2 == true) //(sonuc && sonuc2) şeklinde de yazılabilir.
             {
-                
+                switch (args[2]) 
+                {
+                    case "+":
+                    
+                        Console.WriteLine($"Toplam : {sayi1+sayi2}");
+                            break;
+                    case "-":
+
+                        Console.WriteLine($"Fark : {sayi1 - sayi2}");
+                        break;
+                    case "*":
+
+                        Console.WriteLine($"Çarpma : {sayi1 * sayi2}");
+                        break;
+                    case "/":
+
+                        Console.WriteLine($"Bölme : {sayi1 / sayi2}");
+                        break;
+
+                }
             }
 
             #endregion

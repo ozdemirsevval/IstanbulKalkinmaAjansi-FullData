@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("20-CustomerDosyasıOkuma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9ab12dc2f9a2e3b1fc626e3f72e6ee6c45ee617")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e22cd3e7133d0c5f50a8f141b4f395044e2f18eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("20-CustomerDosyasıOkuma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("20-CustomerDosyasıOkuma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
