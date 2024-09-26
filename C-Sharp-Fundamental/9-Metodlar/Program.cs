@@ -1,4 +1,5 @@
-﻿using System.Threading.Channels;
+﻿using System.Net.Http.Headers;
+using System.Threading.Channels;
 
 namespace _9_Metodlar
 {
@@ -6,6 +7,7 @@ namespace _9_Metodlar
     {
         static void Main(string[] args)
         {
+
             #region Konu Anlatımı
 
             /*
@@ -80,22 +82,38 @@ namespace _9_Metodlar
             #endregion
 
             #region Sorular 
-
             /*
                 1 - Kendisine gelen mesajı ekrana yazan metod EkranaYaz()
                 2 - Ekrandan sayı okutup int dönen sayioku metodunu yazınız.
-                3 - İki adet integer değer alıp bir adet string operatörü alsın 
-                  Gelen operatöre göre 4 işlem sonucunu ekrana yazdırsın.
+                3 - İki adet integer değer alıp bir adet string operatörü alsın, 
+                    gelen operatöre göre 4 işlem sonucunu ekrana yazdırsın.
+                4 - Faktöriyel alan metod yazınız.
+                5 - Verilen sayının verilen üssünü alacak metod >> long UssunuAl(2,4) gibi 
             
             Sayi Oku Metodu Genel Çalışma Mantığı:
             Metot, kullanıcıdan geçerli bir tam sayı girmesini bekler.
             Eğer kullanıcı yanlış bir şey girerse, tekrar sayı girmesi istenir.
             Kullanıcı doğru bir tam sayı girince bu sayı döndürülür.
              */
-            int sayi = SayiOku("Bir sayi giriniz.");
-            SayiOku("");
-
             #endregion
+
+            //int sayi = SayiOku("Bir sayi giriniz.");
+
+            //double a = (double)SayiOku("double bir sayı giriniz");
+            //double b = (double)SayiOku("double bir sayı giriniz.");
+            //Console.WriteLine(DortIslem2(a, b, '*')); //Ercan hocanın çözümündeki metodu çağırdık.
+
+            var faktoriyel = Faktoriyel(5);
+            Console.WriteLine(faktoriyel);
+
+            int a = SayiOku("Faktöriyelini hesaplamak istediğiniz sayıyı giriniz.");
+            var faktoryel = FaktoriyelRecursive(a);
+            Console.WriteLine($"Recursive Faktöriyel: {faktoryel}");
+
+            int sayi = SayiOku("Üssünü almak istediğiniz sayıyı giriniz.");
+            int us = SayiOku("Üs değerini giriniz.");
+            var uslusayi = UssunuAl(sayi, us);
+            Console.WriteLine($"{sayi}'nın {us}. üssü = {uslusayi}");
         }
 
         #region Metod Yazma ve Overload Örneği
@@ -229,8 +247,88 @@ namespace _9_Metodlar
                 default:
                     Console.WriteLine("Geçerli değer giriniz.");
                     break;
-                    #endregion
+                    
             }
         }
+        #endregion
+
+        #region DortIslem() Ercan Hoca Çözümü
+
+        public static double? DortIslem2(double say1, double say2, char islem)
+        { 
+           double sonuc = 0;
+           
+            switch (islem)
+            {
+                case '+':
+                    return say1 + say2;
+                case '-':
+                    return say1 - say2;
+                case '*':
+                    return say1 * say2;
+                case '/':
+                    try
+                    {
+                        return say1 / say2;
+                    }
+                    catch ( Exception ex)
+                    {
+                        Console.WriteLine("Sıfıra bölme hatası");
+                        return 0;
+                    }
+                default:
+                    Console.WriteLine("Beklenmedik bir durum oluştu.");
+                    return 0;
+            }
+        }
+
+        #endregion
+
+        #region Faktoriyel() metodu
+
+        public static long Faktoriyel(int sayi)
+        {
+           long sonuc = 1;
+
+           for (int i = 1; i <= sayi; i++) 
+           {
+                sonuc *= i;
+           }
+           return sonuc;
+        }
+
+        #endregion
+
+        #region Recursive Metod ile Faktoriyel() Çözümü
+
+        public static long FaktoriyelRecursive(int sayi)
+        {
+            if (sayi == 1 || sayi == 0)
+            {
+                return 1; // 0 ve 1'in faktöriyeli her zaman 1 döner.
+            }
+            else
+            {
+                return sayi * FaktoriyelRecursive(sayi - 1);
+            }
+        }
+
+        #endregion
+
+        #region UssunuAl() metodu ile recursive Üslü Sayı Hesaplama
+
+        public static long UssunuAl(int sayi, int us)
+        {
+            if (us == 0)
+            {
+                return 1;
+            }
+            else
+            {
+                return sayi * UssunuAl(sayi, us - 1);
+            }
+        }
+
+        #endregion
     }
 }

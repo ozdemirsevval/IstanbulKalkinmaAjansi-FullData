@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{930A08F0-81AD-49F5-9D2B-589F0E0FF162}|9-Metodlar\\9-Metodlar.csproj|c:\\users\\sevva\\istanbulkalkinmaajansi-fulldata\\c-sharp-fundamental\\9-metodlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{930A08F0-81AD-49F5-9D2B-589F0E0FF162}|9-Metodlar\\9-Metodlar.csproj|solutionrelative:9-metodlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FC5F9FD-1038-4B2F-ACA6-D3019121328C}|8-MainArguman\\8-MainArguman.csproj|c:\\users\\sevva\\istanbulkalkinmaajansi-fulldata\\c-sharp-fundamental\\8-mainarguman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FC5F9FD-1038-4B2F-ACA6-D3019121328C}|8-MainArguman\\8-MainArguman.csproj|solutionrelative:8-mainarguman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,22 +28,9 @@
               "RelativeDocumentMoniker": "9-Metodlar\\Program.cs",
               "ToolTip": "C:\\Users\\sevva\\IstanbulKalkinmaAjansi-FullData\\C-Sharp-Fundamental\\9-Metodlar\\Program.cs",
               "RelativeToolTip": "9-Metodlar\\Program.cs",
-              "ViewState": "AQIAANMAAAAAAAAAAAAAwOAAAABNAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwG4AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T08:13:02.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sevva\\IstanbulKalkinmaAjansi-FullData\\C-Sharp-Fundamental\\8-MainArguman\\Program.cs",
-              "RelativeDocumentMoniker": "8-MainArguman\\Program.cs",
-              "ToolTip": "C:\\Users\\sevva\\IstanbulKalkinmaAjansi-FullData\\C-Sharp-Fundamental\\8-MainArguman\\Program.cs",
-              "RelativeToolTip": "8-MainArguman\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADwAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:16:09.889Z",
               "EditorCaption": ""
             }
           ]
