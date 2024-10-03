@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\sevva\\IstanbulKalkinmaAjansi-FullData\\C-Sharp-Fundamental\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{930A08F0-81AD-49F5-9D2B-589F0E0FF162}|9-Metodlar\\9-Metodlar.csproj|c:\\users\\sevva\\istanbulkalkinmaajansi-fulldata\\c-sharp-fundamental\\9-metodlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDAF9A17-19B3-4D7A-A669-E83025D9E2FE}|10-MetotlarLab\\10-MetotlarLab.csproj|c:\\users\\sevva\\istanbulkalkinmaajansi-fulldata\\c-sharp-fundamental\\10-metotlarlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAF9A17-19B3-4D7A-A669-E83025D9E2FE}|10-MetotlarLab\\10-MetotlarLab.csproj|solutionrelative:10-metotlarlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930A08F0-81AD-49F5-9D2B-589F0E0FF162}|9-Metodlar\\9-Metodlar.csproj|C:\\Users\\sevva\\IstanbulKalkinmaAjansi-FullData\\C-Sharp-Fundamental\\9-metodlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{930A08F0-81AD-49F5-9D2B-589F0E0FF162}|9-Metodlar\\9-Metodlar.csproj|solutionrelative:9-metodlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,14 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sevva\\IstanbulKalkinmaAjansi-FullData\\C-Sharp-Fundamental\\10-MetotlarLab\\Program.cs",
+              "RelativeDocumentMoniker": "10-MetotlarLab\\Program.cs",
+              "ToolTip": "C:\\Users\\sevva\\IstanbulKalkinmaAjansi-FullData\\C-Sharp-Fundamental\\10-MetotlarLab\\Program.cs",
+              "RelativeToolTip": "10-MetotlarLab\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:32:40.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sevva\\IstanbulKalkinmaAjansi-FullData\\C-Sharp-Fundamental\\9-Metodlar\\Program.cs",
               "RelativeDocumentMoniker": "9-Metodlar\\Program.cs",
               "ToolTip": "C:\\Users\\sevva\\IstanbulKalkinmaAjansi-FullData\\C-Sharp-Fundamental\\9-Metodlar\\Program.cs",
               "RelativeToolTip": "9-Metodlar\\Program.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAAwG4AAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T08:13:02.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T08:13:02.011Z"
             }
           ]
         }
