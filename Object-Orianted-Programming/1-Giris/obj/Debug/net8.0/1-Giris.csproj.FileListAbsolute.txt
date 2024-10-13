@@ -1,0 +1,15 @@
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\bin\Debug\net8.0\1-Giris.exe
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\bin\Debug\net8.0\1-Giris.deps.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\bin\Debug\net8.0\1-Giris.runtimeconfig.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\bin\Debug\net8.0\1-Giris.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\bin\Debug\net8.0\1-Giris.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\obj\Debug\net8.0\1-Giris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\obj\Debug\net8.0\1-Giris.AssemblyInfoInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\obj\Debug\net8.0\1-Giris.AssemblyInfo.cs
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\obj\Debug\net8.0\1-Giris.csproj.CoreCompileInputs.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\obj\Debug\net8.0\1-Giris.sourcelink.json
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\obj\Debug\net8.0\1-Giris.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\obj\Debug\net8.0\refint\1-Giris.dll
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\obj\Debug\net8.0\1-Giris.pdb
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\obj\Debug\net8.0\1-Giris.genruntimeconfig.cache
+C:\Users\sevva\IstanbulKalkinmaAjansi-FullData\Object-Orianted-Programming\1-Giris\obj\Debug\net8.0\ref\1-Giris.dll
